@@ -20,6 +20,8 @@ It works in harmony with NetTopologySuite and ProjNet libraries, facilitating th
 	-TUREF / TM39 (EPSG: 5257)
 	-TUREF / TM42 (EPSG: 5258)
 	-TUREF / TM45 (EPSG: 5259)
+- Needs NetTopologySuite version: 2.6.0
+- Needs ProjNet version: 2.0.0
 
 ---
 
@@ -74,6 +76,6 @@ Contributions are welcome! Please open a pull request or issue for feedback and 
 
 For any questions or issues, please open an issue on the GitHub repository or contact the project maintainers.
 
-Developer: Oğuzhan Candemir
-Email: candemiroguz@outlook.com
-GitHub: https://github.com/candemiroguz
+- Developer: Oğuzhan Candemir
+- Email: candemiroguz@outlook.com
+- GitHub: https://github.com/candemiroguz
